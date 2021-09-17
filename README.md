@@ -12,6 +12,7 @@ cd go-calc-experiment
 # init with cobra with package name
 cobra init --pkg-name go-calc-experiment
 ```
+
 ## building
 
 1. go build
